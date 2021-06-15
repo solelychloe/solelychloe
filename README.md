@@ -7,7 +7,7 @@ Occasionally tinkering with Discord API. Prefer to use RethinkDB and PostgreSQL.
 Currently a contributor & translator for [@jiktim](https://github.com/jiktim).  
 
 # Contributions
-- Contributed on [Hibiki]https://github.com/sysdotini/hibiki], a Discord bot, early on as a part-time developer.  
+- Contributed on [Hibiki](https://github.com/sysdotini/hibiki), a Discord bot, early on as a part-time developer.  
 Currently a translator for the project.
 
 - Contributed on [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB).
