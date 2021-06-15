@@ -1,7 +1,7 @@
 # Chloe
 Hi, I'm Chloe, a part-time web developer & translator.  
 
-I know JavaScript & Python. Currently interested in CSharp, learning TypeScript.  
+I know JavaScript & Python. At the moment, interested in CSharp, learning TypeScript.  
 Occasionally tinkering with Discord API.  
 
 Currently a contributor & translator for [@jiktim](https://github.com/jiktim).  
