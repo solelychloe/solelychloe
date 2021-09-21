@@ -1,11 +1,13 @@
 # Chloe
-Hi, I'm Chloe, a part-time web developer & translator.  
+Hi. I'm Chloe, af ull-time translator, web developer as well as a software developer.
 
-I know JavaScript & Python. At the moment, interested in CSharp, learning TypeScript.  
-Occasionally tinkering with Discord API. Prefer to use RethinkDB and PostgreSQL. 
+I know JavaScript & Python. At the moment, interested in CSharp & TypeScript.  
+Prefer to use RethinkDB and PostgreSQL. 
 
 Currently a contributor & translator for [@jiktim](https://github.com/jiktim).  
 
 If you wish to know more, visit [my website](https://solely.codes).
+
 # Contact
 You can contact me on Discord at Chloe#5409, on my [Twitter](https://twitter.com/solelychloe) (shitpost warning) or my [Steam](https://steamcommunity.com/id/solelychloe) profile.
+You can also find me in the [Destiny 2 Discord](https://discord.gg/d2) server.
