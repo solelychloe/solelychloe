@@ -1,5 +1,5 @@
 # Chloe
-Hi. I'm Chloe, af ull-time translator, web developer as well as a software developer.
+Hi. I'm Chloe, a full-time translator, web developer as well as a software developer.
 
 I know JavaScript & Python. At the moment, interested in CSharp & TypeScript.  
 Prefer to use RethinkDB and PostgreSQL. 
