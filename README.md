@@ -10,4 +10,4 @@ If you wish to know more, visit [my website](https://solely.codes).
 
 # Contact
 You can contact me on Discord at solelychloe#2755, or you can send me a letter in my inbox at [solely@riseup.net](mailto:solely@riseup.net).  
-You can also find me in the [Destiny 2 Discord](https://discord.gg/d2) server.
+You can also find me in the [Destiny 2 Discord](https://discord.gg/d2) server as a Moderator.
