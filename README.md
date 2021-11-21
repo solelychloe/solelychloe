@@ -1,8 +1,8 @@
 # Chloe
 Hi! I'm Chloe, a full-time translator, web developer as well as a software developer.
 
-I know JavaScript & Python. At the moment, interested in CSharp & TypeScript.  
-Prefer to use RethinkDB and PostgreSQL. 
+I know JavaScript & Python. At the moment, I'm interested in learning CSharp & TypeScript.  
+I prefer to use RethinkDB and PostgreSQL. 
 
 Currently a contributor & translator for [@jiktim](https://github.com/jiktim).  
 
