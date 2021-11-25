@@ -14,4 +14,4 @@ You can also find me in the [Destiny 2 Discord](https://discord.gg/d2) server as
 
 I also respond the quickest on Twitter at [@solelychloe](https://twitter.com/solelychloe).
 
-[![solelychloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=solelychloe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![solelychloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=solelychloe&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
