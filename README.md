@@ -1,16 +1,16 @@
 # solelychloe
-Hi! I'm Chloe, a full-time translator, web developer as well as a software developer.
+Hi! I'm Chloe. Located in the North Pole, I am a full-time translator, web developer as well as a software developer.
 
-At the moment, I know JavaScript, TypeScript, CSS & SASS. I'm interested in learning CSharp & TypeScript.  
-I prefer to use RethinkDB and PostgreSQL database-wise. 
+- 💛 JavaScript, TypeScript, CSS & SASS
+- 💙 Learning CSharp & Python
+- ♥️ Using RethinkDB and PostgreSQL for database projects
 
-Currently a contributor & translator for [@jiktim](https://github.com/jiktim).  
-If you wish to know more, visit [my website](https://solely.codes).
+I translate [@DestinyItemManager](https://github.com/DestinyItemManager) and [@LittleLightForDestiny](https://github.com/littlelightfordestiny) to Russian.
 
 # Contact
-You can contact me on Discord at solely#0001. I'm also a Moderator in the [Destiny 2 Discord Server](https://discord.gg/d2). 
+- Discord: `solely#0001` (Discord Mod in [r/Destiny2 Server](https://discord.gg/d2))
+- Twitter: [@solelychloe](https://twitter.com/solelychloe)
+- Inbox: [solely@riseup.net](mailto:solely@riseup.net)
 
-For more pressing matters, send a letter in my inbox at [solely@riseup.net](mailto:solely@riseup.net).  
-I also respond the quickest on Twitter at [@solelychloe](https://twitter.com/solelychloe).
-
-[![solelychloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=solelychloe&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+For more information, visit my website at [solely.codes](https://solely.codes).
+ 
