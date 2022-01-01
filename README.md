@@ -8,7 +8,7 @@ Hi! I'm Chloe. Located in the North Pole, I am a full-time translator, web devel
 I translate [@DestinyItemManager](https://github.com/DestinyItemManager) and [@LittleLightForDestiny](https://github.com/littlelightfordestiny) to Russian.
 
 # Contact
-- Discord: `solely#0001` (Discord Mod in [r/Destiny2 Server](https://discord.gg/d2))
+- Discord: `solely#0001` (Discord Mod in [r/Destiny2](https://discord.gg/d2))
 - Twitter: [@solelychloe](https://twitter.com/solelychloe)
 - Inbox: [solely@riseup.net](mailto:solely@riseup.net)
 
