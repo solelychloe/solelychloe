@@ -5,7 +5,7 @@ Hi! I'm Chloe. Located in the North Pole, I am a full-time translator, web devel
 - 💙 Learning CSharp & Python
 - ♥️ Using RethinkDB and PostgreSQL for database projects
 
-I translate [@DestinyItemManager](https://github.com/DestinyItemManager) and [@LittleLightForDestiny](https://github.com/littlelightfordestiny) to Russian.
+I translate [Destiny Item Manager](https://destinyitemmanager.com), [Destiny Recipes](https://destinyrecipes.com/) and [Little Light](https://littlelight.club/) to Russian.
 
 # Contact
 - Discord: `solely#0001` (Discord Mod in [r/Destiny2](https://discord.gg/d2))
